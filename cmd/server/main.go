@@ -1,6 +1,6 @@
 package main
 
-import "NTPPoC/internal/service"
+import "PoC/internal/service"
 
 func main() {
 	// Инициализация сервиса с портами для HTTP и UDP

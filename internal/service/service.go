@@ -1,10 +1,10 @@
 package service
 
 import (
-	"NTPPoC/internal/Storage"
-	"NTPPoC/internal/httpserver"
-	"NTPPoC/internal/repository"
-	"NTPPoC/internal/udplistener"
+	"PoC/internal/Storage"
+	"PoC/internal/httpserver"
+	"PoC/internal/repository"
+	"PoC/internal/udplistener"
 	"fmt"
 	"os"
 	"os/signal"

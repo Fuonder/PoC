@@ -1,7 +1,7 @@
 package httpserver
 
 import (
-	"NTPPoC/internal/handlers"
+	"PoC/internal/handlers"
 	"errors"
 	"log"
 	"net/http"
